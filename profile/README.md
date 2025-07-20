@@ -14,7 +14,7 @@
         - AD
         - LDAP
         - RDS
-        - KMS
+        - KMS Host
     2. WSL-2 Ubuntu
         - [Newt](https://github.com/fosrl/newt)
         - Development environment
