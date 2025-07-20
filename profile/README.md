@@ -30,3 +30,7 @@
         - [Pangolin Tunnel](https://github.com/fosrl/pangolin)
         - [Wireguard Server](https://github.com/WireGuard)
         - Torrent Seedbox
+    7. Windows 10 Pro
+        - [Jellyfin](https://github.com/jellyfin/jellyfin)
+        - Hyper-V hypervisor
+        - ~~AD Domain Controller~~ (Was turned over for production for a university)
