@@ -3,7 +3,30 @@
 
 <h1 align="center">$\boldsymbol{\mathnormal{Welcome!}}$</h1>
 
-- Currently looking for a remote job involving Linux.
+- Currently looking for a remote job involving:
+    - Linux
+    - Python 3.8 to 3.10
 - I've been a licensed amateur radio operator for almost a year now (December 2024).
   - Having the callsign of [**4G9LGA**](https://radioid.net/database/view?callsign=4G9LGA)
   - And a member of [**DX9ALT - ALERT-10**](https://www.facebook.com/alert10inc.official.ph)
+- Homelabing since 2023
+    1. ~~Windows Server 2022~~ (Was turned over for production for a university):
+        - AD
+        - LDAP
+        - RDS
+        - KMS
+    2. WSL-2 Ubuntu
+        - [Newt](https://github.com/fosrl/newt)
+        - Development environment
+        - Pterodactyl Panel
+    3. Main Ubuntu VM
+        - Production environment
+        - Docker worker node
+    4. ODK Ubuntu VM
+        - ODK Central (Open Data Kit)
+        - Enketo
+    5. AMPR Net Gateway Ubuntu VM
+    6. OVH Ubuntu VPS
+        - Pangolin Tunnel
+        - Wireguard Server
+        - Torrent Seedbox
