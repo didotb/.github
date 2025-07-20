@@ -1,4 +1,4 @@
-<p align="center"><img align="center" style="padding:0px" height="50px" src="https://i.imgur.com/OvCXqPL.png" /></p>
+<p align="center"><img align="center" style="padding:0px" height="313px" src="https://i.imgur.com/OvCXqPL.png" /></p>
 
 
 <h1 align="center" style="padding:0px;width:100%;">$\mathnormal{Welcome!}$</h1>
