@@ -18,7 +18,7 @@
     2. WSL-2 Ubuntu
         - [Newt](https://github.com/fosrl/newt)
         - Development environment
-        - Pterodactyl Panel
+        - [Pterodactyl Panel](https://github.com/pterodactyl/panel)
     3. Main Ubuntu VM
         - Production environment
         - Docker worker node
