@@ -23,10 +23,10 @@
         - Production environment
         - Docker worker node
     4. ODK Ubuntu VM
-        - ODK Central (Open Data Kit)
+        - [ODK Central (Open Data Kit)](https://github.com/getodk/central)
         - Enketo
-    5. AMPR Net Gateway Ubuntu VM
+    5. [AMPR Net Gateway Ubuntu VM](https://www.qsl.net/aa3eu/AMPRnet.htm)
     6. OVH Ubuntu VPS
-        - Pangolin Tunnel
-        - Wireguard Server
+        - [Pangolin Tunnel](https://github.com/fosrl/pangolin)
+        - [Wireguard Server](https://github.com/WireGuard)
         - Torrent Seedbox
