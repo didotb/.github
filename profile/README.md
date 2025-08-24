@@ -9,7 +9,7 @@
 - I've been a licensed amateur radio operator for almost a year now (December 2024).
   - Having the callsign of [**4G9LGA**](https://radioid.net/database/view?callsign=4G9LGA)
   - And a member of [**DX9ALT - ALERT-10**](https://www.facebook.com/alert10inc.official.ph)
-- Homelabing since 2021
+- Homelabing since 2023
     1. ~~Windows Server 2022~~ (Was turned over for production for a university):
         - AD
         - LDAP
@@ -24,7 +24,7 @@
         - Docker worker node
     4. ODK Ubuntu VM
         - [ODK Central (Open Data Kit)](https://github.com/getodk/central)
-        - ~~ Enketo ~~ ODK is migrating to an ODK Web Form, and I'm testing the beta out.
+        - ~~Enketo~~ ODK is migrating to an ODK Web Form, and I'm testing the beta out.
     5. [AMPR Net Gateway Ubuntu VM](https://www.qsl.net/aa3eu/AMPRnet.htm)
     6. OVH Ubuntu VPS
         - [Pangolin Tunnel](https://github.com/fosrl/pangolin)
