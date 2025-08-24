@@ -9,7 +9,7 @@
 - I've been a licensed amateur radio operator for almost a year now (December 2024).
   - Having the callsign of [**4G9LGA**](https://radioid.net/database/view?callsign=4G9LGA)
   - And a member of [**DX9ALT - ALERT-10**](https://www.facebook.com/alert10inc.official.ph)
-- Homelabing since 2021
+- Homelabing since 2023
     1. ~~Windows Server 2022~~ (Was turned over for production for a university):
         - AD
         - LDAP
