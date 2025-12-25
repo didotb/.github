@@ -35,11 +35,11 @@
         - Hyper-V hypervisor
         - ~~AD Domain Controller~~ **(Was turned over for production for a university)**
     8. Proxmox VE Host
-        1. With LXCs:
+        1. LXCs:
             - [Portainer](https://www.portainer.io)
             - [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
             - [BIND 9](https://www.isc.org/bind/)
             - [ODK Central (Open Data Kit)](https://github.com/getodk/central)
-        2. With VMs:
+        2. VMs:
             - Windows 11 25H2
             - [Nextcloud](https://nextcloud.com/)
