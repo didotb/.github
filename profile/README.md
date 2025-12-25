@@ -1,7 +1,7 @@
 <p align="center"><img align="center" style="padding:0px" height="156px" src="https://i.imgur.com/OvCXqPL.png" /></p>
 
 
-<h1 align="center">$\boldsymbol{\mathnormal{Andrew}&nbsp;&numsp;\mathnormal{Barrientos}}$</h1>
+<h1 align="center">$\boldsymbol{\mathnormal{Andrew}&numsp;\mathnormal{Barrientos}}$</h1>
 
 - Currently looking for a remote job involving:
     - Linux
