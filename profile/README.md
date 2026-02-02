@@ -5,7 +5,8 @@
 
 - Currently looking for a remote job involving:
     - Linux
-    - Python 3.8 to 3.10
+    - Python 3
+    - Databases
 - I've been a licensed amateur radio operator for a year already now (December 2024).
   - Having the callsign of [**4G9LGA**](https://radioid.net/database/view?callsign=4G9LGA)
   - And a member of [**DX9ALT - ALERT-10**](https://www.facebook.com/alert10inc.official.ph)
