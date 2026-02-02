@@ -43,3 +43,9 @@
         2. VMs:
             - Windows 11 25H2
             - [Nextcloud](https://nextcloud.com/)
+
+---
+
+# Resume
+
+![Resume](https://github.com/didotb/.github/blob/main/profile/images/resume.png)
